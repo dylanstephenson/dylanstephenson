@@ -47,14 +47,15 @@
 - Modern CSS techniques and responsive design
 - Software architecture and design patterns
  
-🎯 2025 Goals
-Master .NET and Blazor Components
-Build 3 full-stack projects
-Contribute to open source projects
-Learn advanced database optimization
-Explore game development and mobile app development
+## 🎯 2025 Goals
+- Master .NET and Blazor Components
+- Build 3 full-stack projects
+- Contribute to open source projects
+- Learn advanced database optimization
+- Explore game development and mobile app development
+
 📫 Let's Connect!
-💼 LinkedIn: https://www.linkedin.com/in/dylan-stephenson/
+- 💼 LinkedIn: https://www.linkedin.com/in/dylan-stephenson/
  
 ⭐️ From Dylan Stephenson - Always learning, always building!
 
