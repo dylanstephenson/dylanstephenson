@@ -10,12 +10,12 @@
 ## 🛠️ Tech Stack
  
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/-?style=flat-square&logo=c-sharp&logoColor=239120)
-![HTML5](https://img.shields.io/badge/-?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=c-sharp&logoColor=239120)
+![HTML5](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/%20-00000000?style=flat-square&logo=css3&logoColor=1572B6)
 
 ### **Frontend**
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
